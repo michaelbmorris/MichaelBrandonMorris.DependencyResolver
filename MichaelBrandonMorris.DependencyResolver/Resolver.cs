@@ -6,9 +6,9 @@ using Microsoft.Extensions.DependencyInjection;
 namespace MichaelBrandonMorris.DependencyResolver
 {
     /// <inheritdoc />
-    public class DependencyResolver : IDependencyResolver
+    public class Resolver : IDependencyResolver
     {
-        public DependencyResolver(IServiceProvider serviceProvider)
+        public Resolver(IServiceProvider serviceProvider)
         {
             ServiceProvider = serviceProvider;
         }
