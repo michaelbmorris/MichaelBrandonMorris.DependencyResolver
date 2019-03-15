@@ -8,7 +8,10 @@
     <Description>A basic dependency resolver for ASP.NET MVC applications.</Description>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
-    <Version>1.0.3</Version>
+    <Version>1.0.5</Version>
+    <RepositoryUrl>https://github.com/michaelbmorris/MichaelBrandonMorris.DependencyResolver</RepositoryUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <PackageProjectUrl>http://michaelbmorris.com/MichaelBrandonMorris.DependencyResolver/</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
